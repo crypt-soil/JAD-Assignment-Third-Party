@@ -1,6 +1,9 @@
 <%@ page contentType="text/html;charset=UTF-8" isELIgnored="true"%>
 <%@ include file="/navbar.jsp"%>
-
+<!-- 
+	Lois Poh 
+	2429478
+ -->
 <!doctype html>
 <html lang="en">
 <head>

@@ -1,5 +1,9 @@
 <%@ page contentType="text/html;charset=UTF-8"%>
 <%@ include file="/navbar.jsp"%>
+<!-- 
+	Lois Poh 
+	2429478
+ -->
 <%
 String error = request.getParameter("error");
 %>
